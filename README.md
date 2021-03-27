@@ -18,7 +18,7 @@
    <a href="https://instagram.com/zhirr_ajalah"><img height="30" src="https://raw.githubusercontent.com/TobyG74/TobyG74/main/instagram.jpg"></a>
 </P>
 
-## 🛠️ My-Api
+## 🛠️ My-Api.
 | Menu | API | 
 |------------ | ---------|
 | Islamic Api | ✔️ |
